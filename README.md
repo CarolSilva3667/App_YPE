@@ -4,9 +4,9 @@
 
 ## 📖 Sobre o Projeto
 
-A Central de Qualidade Ypê é um sistema desenvolvido para melhorar a comunicação interna e agilizar o atendimento relacionado a problemas de qualidade e segurança dos produtos.
+O *Ypê Suporte* é um sistema desenvolvido para melhorar a comunicação interna e externa, além de agilizar o atendimento relacionado a problemas de qualidade e segurança dos produtos.
 
-A plataforma permite registrar ocorrências, acompanhar investigações e fortalecer a confiança dos consumidores na marca.
+A plataforma permite registrar ocorrências, acompanhar investigações e fortalecer a confiança dos consumidores na marca e ajuda na comunicação entre funcionarios e gestores de qualidade.
 
 ---
 
@@ -105,9 +105,8 @@ Os gerentes podem acompanhar o status:
 
 # 💻 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+- Canva
+- Word
 - Figma
 
 ---
@@ -125,7 +124,7 @@ Os gerentes podem acompanhar o status:
 
 # 📌 Conclusão
 
-A Central de Qualidade Ypê foi criada para tornar o processo de identificação e resolução de problemas mais rápido, seguro e eficiente, melhorando a comunicação interna e garantindo maior qualidade no atendimento ao consumidor.
+O Ypê Suporte foi criada para tornar o processo de identificação e resolução de problemas mais rápido, seguro e eficiente, melhorando a comunicação interna e garantindo maior qualidade no atendimento ao consumidor.
 
 # Links
 
